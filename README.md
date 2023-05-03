@@ -9,7 +9,7 @@
 
 🛠 I'm building a small icon pack as well as a suite of small-scale Python projects.
 
-📝 I'm writing blog articles about Productivity, Design and Code @ [CodeDuckling](https://medium.com/codeduckling)
+📝 I'm writing blog articles about Productivity, Design and Code @ [Medium](https://satwikgawand.medium.com)
 
 💡 I'll be more than happy to collaborate on a project. I can contribute in the area of _design_, _Python_, and _AI/ML_.
 
@@ -25,12 +25,10 @@
 
 💻 On [GitHub](https://github.com/satwikgawand), I share code repos for small-scale projects which I cover in my blog.
 
-📝 On [CodeDuckling](https://medium.com/codeduckling), I share blog posts about Productivity, Design and Code.
+📝 On [Medium](https://satwikgawand.medium.com), I share blog posts about Productivity, Design and Code.
 
 📸 On [Unsplash](https://unsplash.com/@satwikgawand), I share pictures I click on my phone.
 
 🤝 On [LinkedIn](https://linkedin.com/in/satwik-gawand), I'm relatively inactive but I'm trying to share some more content.
-
-⛓ [Bio Link](https://satwikgawand.bio.link) is where you'll find all my updated links.
 
 ---
